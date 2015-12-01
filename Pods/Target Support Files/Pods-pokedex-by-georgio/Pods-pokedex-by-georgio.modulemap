@@ -1,0 +1,6 @@
+framework module Pods_pokedex_by_georgio {
+  umbrella header "Pods-pokedex-by-georgio-umbrella.h"
+
+  export *
+  module * { export * }
+}
